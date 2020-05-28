@@ -1,2 +1,2 @@
 # UMassRoboticsWebsite
-I am in charge of developing the website for UMass Robotics, a club my friends at school and I founded during our sophomore year. I will continue to push any changes I make to the site in this repository, so others can see what I have been doing.
+I am in charge of developing the website for UMass Robotics, a club my friends and I founded during our sophomore year at UMass Amherst. I will continue to push any changes I make to the site in this repository, so others can see what I have been doing. To see what the site looks like, you can go to www.umassrobotics.org, or run the application.py file and copy/paste the link that appears in the terminal into your browser.
